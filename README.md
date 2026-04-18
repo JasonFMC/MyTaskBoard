@@ -1,4 +1,4 @@
-# PriorityTasks – 优先级任务看板
+# PriorityTasks
 
 A clean, client-side task management app that helps you focus on what matters most. Tasks are automatically sorted by priority (High → Medium → Low), so you always know what to do first.
 
